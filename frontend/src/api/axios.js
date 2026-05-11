@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://vibe-blog.onrender.com",
+  baseURL: "https://vibe-blog.onrender.com/api",
 });
 
 // Attach token automatically
