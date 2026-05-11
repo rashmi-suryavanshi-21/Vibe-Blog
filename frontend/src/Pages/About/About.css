@@ -1,0 +1,16 @@
+.about-content{
+    margin: 10% 30%;
+    padding: 2%;
+    border: 2px solid rgb(157, 157, 139);
+}
+.footer-about{
+    text-decoration: none;
+}
+@media (max-width: 500px){
+.about-content{
+    margin: 2%;
+}
+.about{
+    font-size: 12px;
+}
+}
