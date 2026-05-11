@@ -2,7 +2,6 @@
 import './App.css';
 import Home from './Pages/Home/Home';
 import { Route, Routes } from 'react-router-dom';
-import BlogForm from './Component/BlogForm/BlogForm';
 import ShowBlog from './Component/ShowBlog/ShowBlog'
 import EditBlog from "./Component/EditBlog/EditBlog";
 import About from './Pages/About/About';

@@ -60,28 +60,28 @@ const Footer = () => {
 
   <div className="flex gap-6">
 
-    <a
-      href="#"
-      className="w-10 h-10 flex items-center justify-center rounded-full bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-amber-400 hover:border-amber-400 transition"
-    >
-      <FaInstagram />
-    </a>
+  <button
+    type="button"
+    className="w-10 h-10 flex items-center justify-center rounded-full bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-amber-400 hover:border-amber-400 transition"
+  >
+    <FaInstagram />
+  </button>
 
-    <a
-      href="#"
-      className="w-10 h-10 flex items-center justify-center rounded-full bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-amber-400 hover:border-amber-400 transition"
-    >
-      <FaTwitter />
-    </a>
+  <button
+    type="button"
+    className="w-10 h-10 flex items-center justify-center rounded-full bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-amber-400 hover:border-amber-400 transition"
+  >
+    <FaTwitter />
+  </button>
 
-    <a
-      href="#"
-      className="w-10 h-10 flex items-center justify-center rounded-full bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-amber-400 hover:border-amber-400 transition"
-    >
-      <FaLinkedin />
-    </a>
+  <button
+    type="button"
+    className="w-10 h-10 flex items-center justify-center rounded-full bg-zinc-900 border border-zinc-800 text-zinc-400 hover:text-amber-400 hover:border-amber-400 transition"
+  >
+    <FaLinkedin />
+  </button>
 
-  </div>
+</div>
 </div>
         </div>
 
